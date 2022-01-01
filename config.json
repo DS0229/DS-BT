@@ -1,0 +1,11 @@
+{
+    "bot_token": "봇 토큰",
+    "command_prefix": "!",
+    "admin_ids": [관리자 아이디],
+    "second": 60,
+    "channel_ids": {
+        "charge_log_channel_id": 충전로그 채널 아이디,
+        "bt_channel_id": 배팅 채널 아이디,
+        "turnround_channel_id": 결과 채널 아이디
+    }
+}
